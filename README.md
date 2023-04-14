@@ -1,16 +1,16 @@
 # sleeksites_task
 
-A Task.
+A Task for SleekSite.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Login And Logout using local storage for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few steps for how the project work:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- When a person logs in to the system using (Email , password) the data stord in shared pref and the user moved to secret screen
+- in the secret screen there is button which when pressed logs the person out.
+- if the user is logged in once he open the app the app start on secret screen.
+- after the user sign out once he open the app the app start on Login screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

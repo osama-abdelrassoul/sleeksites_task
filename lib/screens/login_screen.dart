@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:sleeksites_task/screens/secret_screen.dart';
 
-import '../main.dart';
 import '../utilities/utilities.dart';
 import '../widgets/custom_button.dart';
 import '../widgets/custom_text_field.dart';
