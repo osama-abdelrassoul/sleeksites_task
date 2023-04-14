@@ -1,6 +1,6 @@
 # sleeksites_task
 
-A new Flutter project.
+A Task.
 
 ## Getting Started
 
