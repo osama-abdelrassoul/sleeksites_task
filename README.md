@@ -6,11 +6,11 @@ A Task for SleekSite.
 
 This project is a Login And Logout using local storage for a Flutter application.
 
-A few steps for how the project work:
+A few steps for how the project works:
 
-- When a person logs in to the system using (Email , password) the data stord in shared pref and the user moved to secret screen
-- in the secret screen there is button which when pressed logs the person out, and show the user account and password.
-- if the user is logged in once he open the app the app start on secret screen.
-- after the user sign out once he open the app the app start on Login screen.
+- When a person logs in to the system using (Email , password) the data is stored in shared pref then the user moves to the secret screen
+- In the secret screen there is a button which logs the person out.
+- If the user logged in to the application once he opens the app the app starts on the secret screen.
+- After the user sign out once he opens the app the app starts on the Login screen.
 
 
