@@ -1,4 +1,4 @@
-# sleeksites_task
+# sleekSites_task
 
 A Task for SleekSite.
 
